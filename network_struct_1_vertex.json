@@ -1,0 +1,25 @@
+{
+    "V": [
+        "com",
+        "market"
+    ],
+    "E": [
+        ["com", "market"]
+    ],
+    "Vdata": {
+        "com": {
+            "ord": 0,
+            "children": [
+                "market"
+            ],
+            "parents" : None
+        },
+        "market": {
+            "ord": 1,
+            "children": None,
+            "parents" : [
+                "com"
+            ]
+        }
+  }
+}

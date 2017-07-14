@@ -1,0 +1,20 @@
+{
+  "n_neg": 26992, 
+  "pos_inc": 0.079, 
+  "n_neg_ave": 0.3606, 
+  "pos_val": 56662.0, 
+  "neg_val": 74191.0, 
+  "n_tweets": 74862, 
+  "n_neu": 25439, 
+  "market_val": 1.17, 
+  "n_neu_ave": 0.3398, 
+  "n_pos": 22431, 
+  "bull_ind": -0.1851, 
+  "neg_val_ave": 0.991, 
+  "n_pos_ave": 0.2996, 
+  "neg_inc": -0.3099, 
+  "pos_val_ave": 0.7569, 
+  "market_inc": -0.0053, 
+  "market_trend": -1, 
+  "bull_ind_val": -0.2695
+}

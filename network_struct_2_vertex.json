@@ -1,0 +1,31 @@
+{
+    "V": [
+        "pos",
+        "neg",
+        "market"
+    ],
+    "E": [
+        ["pos", "market"],
+        ["neg", "market"]
+    ],
+    "Vdata": {
+        "pos": {
+            "ord": 0,
+            "children": ["market"],
+            "parents" : None
+        },
+        "neg": {
+            "ord": 1,
+            "children": ["market"],
+            "parents" : None
+        },
+        "market": {
+            "ord": 2,
+            "children": None,
+            "parents" : [
+                "pos",
+                "neg"
+            ]
+        }
+  }
+}
